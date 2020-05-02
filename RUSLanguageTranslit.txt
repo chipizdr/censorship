@@ -132,7 +132,7 @@ kurvyazhnyj
 manda
 mandavoshka
 mandej
-mandet'
+mandet
 mandishcha
 mandyuk
 minet
@@ -196,8 +196,8 @@ pidor
 pizda
 pizdanut
 pizdenka
-pizdet'
-pizdit'
+pizdet
+pizdit
 pizdishcha
 pizdobratiya
 pizdovatyj
